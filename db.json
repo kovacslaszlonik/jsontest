@@ -1,0 +1,18 @@
+{
+  [
+    {
+        "dbType": "ase",
+        "dbVersion": "16.0.02.04.1",
+        "dbAliasName": "asepreview",
+        "dbServerNature": "DEDICATED_MANAGED",
+        "createdByBroker": false
+    },
+    {
+        "dbType": "ase",
+        "dbVersion": "16.0.03.05.1",
+        "dbAliasName": "asepreview2",
+        "dbServerNature": "DEDICATED_MANAGED",
+        "createdByBroker": false
+    }
+  ]
+}
